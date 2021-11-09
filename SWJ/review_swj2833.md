@@ -50,10 +50,6 @@
 [p.3, right, 4]: corpora such as? add refs  
 [p.3, right, 5]: no longer used because ..?
 [p.3, right, 11-12]: There are also TimeML extensions for specific domains such as the THYME project for the medical domain.
-[p.3, right, 12]: 
-[p.3, right, 13]: 
-[p.3, right, 14]: 
-[p.3, right, 15]: 
 [p.3, right, 16]: what challenges are you talking about?
 [p.3, right, 17]: them == ?
 [p.3, right, 18]: 
@@ -62,7 +58,6 @@
 [p.3, right, 21]: ERE == ?
 [p.3, right, 31]: , and annotates
 [p.3, right, 33-34]: add reference 
-[p.3, right, 33]: 
 [p.3, right, 34]: aimed -> tasked?
 [p.3, right, 35]: events of what? 
 [p.3, right, 39]: year's edition
@@ -137,922 +132,131 @@
 [p.8, right, 40]: what percentages? 
 
 [p.9, right, 39]: most relevant == ?
-[p.9, right, 40]: 
 [p.9, right, 41]: the frames == the most relevant frames?
-[p.9, right, 42]: 
 [p.9, right, 43]: what Python script?
-[p.9, right, 44]: 
-[p.9, right, 45]: 
-[p.9, right, 46]: 
-[p.9, right, 47]: 
-[p.9, right, 48]: 
-[p.9, right, 49]: 
 [p.9, right, 50]: lexical units?!
-[p.9, right, 51]: 
-[p.10, left, 1]: 
-[p.10, left, 2]: 
-[p.10, left, 3]: 
-[p.10, left, 4]: 
-[p.10, left, 5]: 
-[p.10, left, 6]: 
-[p.10, left, 7]: 
-[p.10, left, 8]: 
-[p.10, left, 9]: 
-[p.10, left, 10]: 
-[p.10, left, 11]: 
-[p.10, left, 12]: 
-[p.10, left, 13]: 
-[p.10, left, 14]: 
-[p.10, left, 15]: 
-[p.10, left, 16]: 
-[p.10, left, 17]: 
-[p.10, left, 18]: 
-[p.10, left, 19]: 
-[p.10, left, 20]: 
-[p.10, left, 21]: 
-[p.10, left, 22]: 
-[p.10, left, 23]: 
-[p.10, left, 24]: 
-[p.10, left, 25]: 
-[p.10, left, 26]: 
-[p.10, left, 27]: 
-[p.10, left, 28]: 
-[p.10, left, 29]: 
-[p.10, left, 30]: 
-[p.10, left, 31]: 
-[p.10, left, 32]: 
-[p.10, left, 33]: 
-[p.10, left, 34]: 
-[p.10, left, 35]: 
-[p.10, left, 36]: 
-[p.10, left, 37]: 
-[p.10, left, 38]: 
-[p.10, left, 39]: 
-[p.10, left, 40]: 
-[p.10, left, 41]: 
-[p.10, left, 42]: 
-[p.10, left, 43]: 
-[p.10, left, 44]: 
-[p.10, left, 45]: 
-[p.10, left, 46]: 
-[p.10, left, 47]: 
-[p.10, left, 48]: 
-[p.10, left, 49]: 
-[p.10, left, 50]: 
-[p.10, left, 51]: 
-[p.10, right, 1]: 
-[p.10, right, 2]: 
-[p.10, right, 3]: 
-[p.10, right, 4]: 
-[p.10, right, 5]: 
-[p.10, right, 6]: 
-[p.10, right, 7]: 
-[p.10, right, 8]: 
-[p.10, right, 9]: 
-[p.10, right, 10]: 
-[p.10, right, 11]: 
-[p.10, right, 12]: 
-[p.10, right, 13]: 
-[p.10, right, 14]: 
-[p.10, right, 15]: 
-[p.10, right, 16]: 
-[p.10, right, 17]: 
-[p.10, right, 18]: 
-[p.10, right, 19]: 
-[p.10, right, 20]: 
-[p.10, right, 21]: 
-[p.10, right, 22]: 
-[p.10, right, 23]: 
-[p.10, right, 24]: 
-[p.10, right, 25]: 
-[p.10, right, 26]: 
-[p.10, right, 27]: 
-[p.10, right, 28]: 
-[p.10, right, 29]: 
-[p.10, right, 30]: 
-[p.10, right, 31]: 
-[p.10, right, 32]: 
-[p.10, right, 33]: 
-[p.10, right, 34]: 
-[p.10, right, 35]: 
-[p.10, right, 36]: 
-[p.10, right, 37]: 
-[p.10, right, 38]: 
-[p.10, right, 39]: 
-[p.10, right, 40]: 
-[p.10, right, 41]: 
-[p.10, right, 42]: 
-[p.10, right, 43]: 
-[p.10, right, 44]: 
-[p.10, right, 45]: 
-[p.10, right, 46]: 
-[p.10, right, 47]: 
-[p.10, right, 48]: 
-[p.10, right, 49]: 
-[p.10, right, 50]: 
-[p.10, right, 51]: 
-[p.11, left, 1]: 
-[p.11, left, 2]: 
-[p.11, left, 3]: 
-[p.11, left, 4]: 
-[p.11, left, 5]: 
-[p.11, left, 6]: 
-[p.11, left, 7]: 
-[p.11, left, 8]: 
-[p.11, left, 9]: 
-[p.11, left, 10]: 
-[p.11, left, 11]: 
-[p.11, left, 12]: 
-[p.11, left, 13]: 
-[p.11, left, 14]: 
-[p.11, left, 15]: 
-[p.11, left, 16]: 
-[p.11, left, 17]: 
-[p.11, left, 18]: 
-[p.11, left, 19]: 
-[p.11, left, 20]: 
-[p.11, left, 21]: 
-[p.11, left, 22]: 
-[p.11, left, 23]: 
-[p.11, left, 24]: 
-[p.11, left, 25]: 
-[p.11, left, 26]: 
-[p.11, left, 27]: 
-[p.11, left, 28]: 
-[p.11, left, 29]: 
-[p.11, left, 30]: 
-[p.11, left, 31]: 
-[p.11, left, 32]: 
-[p.11, left, 33]: 
-[p.11, left, 34]: 
-[p.11, left, 35]: 
-[p.11, left, 36]: 
-[p.11, left, 37]: 
-[p.11, left, 38]: 
-[p.11, left, 39]: 
-[p.11, left, 40]: 
 
+[p.10, left, 21-29]: the whole paragraph needs to be rephrased;  
+[p.10, left, 23]: it is just needed -> rephrase 
+[p.10, left, 26]: and it is this file 
+[p.10, left, 27]: remove "latter" 
+[p.10, left, 29]: what's the "pos"? 
+[p.10, left, 34]: s/pipeline/workflow/ 
+[p.10, left, 48]: what's "application lodgement" and why is it a special case?
+[p.10, right, 27]: similarily to the events
+[p.10, right, 49]: "annotated xml and as a visual HTML" -> what's a visual HTML and how is it different from a "non-visual" HTML? why is xml lowercase while HTML is uppercase? 
 ```
 
 ## FT3 Ontology
 ---
 
 ``` 
-[p.11, left, 41]: 
-[p.11, left, 42]: 
-[p.11, left, 43]: 
-[p.11, left, 44]: 
-[p.11, left, 45]: 
-[p.11, left, 46]: 
-[p.11, left, 47]: 
-[p.11, left, 48]: 
-[p.11, left, 49]: 
-[p.11, left, 50]: 
-[p.11, left, 51]: 
-[p.11, right, 1]: 
-[p.11, right, 2]: 
-[p.11, right, 3]: 
-[p.11, right, 4]: 
-[p.11, right, 5]: 
-[p.11, right, 6]: 
-[p.11, right, 7]: 
-[p.11, right, 8]: 
-[p.11, right, 9]: 
-[p.11, right, 10]: 
-[p.11, right, 11]: 
-[p.11, right, 12]: 
-[p.11, right, 13]: 
-[p.11, right, 14]: 
-[p.11, right, 15]: 
-[p.11, right, 16]: 
-[p.11, right, 17]: 
-[p.11, right, 18]: 
-[p.11, right, 19]: 
-[p.11, right, 20]: 
-[p.11, right, 21]: 
-[p.11, right, 22]: 
-[p.11, right, 23]: 
-[p.11, right, 24]: 
-[p.11, right, 25]: 
-[p.11, right, 26]: 
-[p.11, right, 27]: 
-[p.11, right, 28]: 
-[p.11, right, 29]: 
-[p.11, right, 30]: 
-[p.11, right, 31]: 
-[p.11, right, 32]: 
-[p.11, right, 33]: 
-[p.11, right, 34]: 
-[p.11, right, 35]: 
-[p.11, right, 36]: 
-[p.11, right, 37]: 
-[p.11, right, 38]: 
-[p.11, right, 39]: 
-[p.11, right, 40]: 
-[p.11, right, 41]: 
-[p.11, right, 42]: 
-[p.11, right, 43]: 
-[p.11, right, 44]: 
-[p.11, right, 45]: 
-[p.11, right, 46]: 
-[p.11, right, 47]: 
-[p.11, right, 48]: 
-[p.11, right, 49]: 
-[p.11, right, 50]: 
-[p.11, right, 51]: 
-[p.12, left, 1]: 
-[p.12, left, 2]: 
-[p.12, left, 3]: 
-[p.12, left, 4]: 
-[p.12, left, 5]: 
-[p.12, left, 6]: 
-[p.12, left, 7]: 
-[p.12, left, 8]: 
-[p.12, left, 9]: 
-[p.12, left, 10]: 
-[p.12, left, 11]: 
-[p.12, left, 12]: 
-[p.12, left, 13]: 
-[p.12, left, 14]: 
-[p.12, left, 15]: 
-[p.12, left, 16]: 
-[p.12, left, 17]: 
-[p.12, left, 18]: 
-[p.12, left, 19]: 
-[p.12, left, 20]: 
-[p.12, left, 21]: 
-[p.12, left, 22]: 
-[p.12, left, 23]: 
-[p.12, left, 24]: 
-[p.12, left, 25]: 
-[p.12, left, 26]: 
-[p.12, left, 27]: 
-[p.12, left, 28]: 
-[p.12, left, 29]: 
-[p.12, left, 30]: 
-[p.12, left, 31]: 
-[p.12, left, 32]: 
-[p.12, left, 33]: 
-[p.12, left, 34]: 
-[p.12, left, 35]: 
-[p.12, left, 36]: 
-[p.12, left, 37]: 
-[p.12, left, 38]: 
-[p.12, left, 39]: 
-[p.12, left, 40]: 
-[p.12, left, 41]: 
-[p.12, left, 42]: 
-[p.12, left, 43]: 
-[p.12, left, 44]: 
-[p.12, left, 45]: 
-[p.12, left, 46]: 
-[p.12, left, 47]: 
-[p.12, left, 48]: 
-[p.12, left, 49]: 
-[p.12, left, 50]: 
-[p.12, left, 51]: 
-[p.12, right, 1]: 
-[p.12, right, 2]: 
-[p.12, right, 3]: 
-[p.12, right, 4]: 
-[p.12, right, 5]: 
-[p.12, right, 6]: 
-[p.12, right, 7]: 
-[p.12, right, 8]: 
-[p.12, right, 9]: 
-[p.12, right, 10]: 
-[p.12, right, 11]: 
-[p.12, right, 12]: 
-[p.12, right, 13]: 
-[p.12, right, 14]: 
-[p.12, right, 15]: 
-[p.12, right, 16]: 
-[p.12, right, 17]: 
-[p.12, right, 18]: 
-[p.12, right, 19]: 
-[p.12, right, 20]: 
-[p.12, right, 21]: 
-[p.12, right, 22]: 
-[p.12, right, 23]: 
-[p.12, right, 24]: 
-[p.12, right, 25]: 
-[p.12, right, 26]: 
-[p.12, right, 27]: 
-[p.12, right, 28]: 
-[p.12, right, 29]: 
-[p.12, right, 30]: 
-[p.12, right, 31]: 
-[p.12, right, 32]: 
-[p.12, right, 33]: 
-[p.12, right, 34]: 
-[p.12, right, 35]: 
-[p.12, right, 36]: 
-[p.12, right, 37]: 
-[p.12, right, 38]: 
-[p.12, right, 39]: 
-[p.12, right, 40]: 
-[p.12, right, 41]: 
-[p.12, right, 42]: 
-[p.12, right, 43]: 
-[p.12, right, 44]: 
-[p.12, right, 45]: 
-[p.12, right, 46]: 
-[p.12, right, 47]: 
-[p.12, right, 48]: 
-[p.12, right, 49]: 
-[p.12, right, 50]: 
-[p.12, right, 51]: 
-[p.13, left, 1]: 
-[p.13, left, 2]: 
-[p.13, left, 3]: 
-[p.13, left, 4]: 
-[p.13, left, 5]: 
-[p.13, left, 6]: 
-[p.13, left, 7]: 
-[p.13, left, 8]: 
-[p.13, left, 9]: 
-[p.13, left, 10]: 
-[p.13, left, 11]: 
-[p.13, left, 12]: 
-[p.13, left, 13]: 
-[p.13, left, 14]: 
-[p.13, left, 15]: 
-[p.13, left, 16]: 
-[p.13, left, 17]: 
-[p.13, left, 18]: 
-[p.13, left, 19]: 
-[p.13, left, 20]: 
-[p.13, left, 21]: 
-[p.13, left, 22]: 
-[p.13, left, 23]: 
-[p.13, left, 24]: 
-[p.13, left, 25]: 
-[p.13, left, 26]: 
-[p.13, left, 27]: 
-[p.13, left, 28]: 
-[p.13, left, 29]: 
-[p.13, left, 30]: 
-[p.13, left, 31]: 
-[p.13, left, 32]: 
-[p.13, left, 33]: 
-[p.13, left, 34]: 
-[p.13, left, 35]: 
-[p.13, left, 36]: 
-[p.13, left, 37]: 
-[p.13, left, 38]: 
-[p.13, left, 39]: 
-[p.13, left, 40]: 
-[p.13, left, 41]: 
-[p.13, left, 42]: 
-[p.13, left, 43]: 
-[p.13, left, 44]: 
-[p.13, left, 45]: 
-[p.13, left, 46]: 
-[p.13, left, 47]: 
-[p.13, left, 48]: 
-[p.13, left, 49]: 
-[p.13, left, 50]: 
-[p.13, left, 51]: 
-[p.13, right, 1]: 
-[p.13, right, 2]: 
-[p.13, right, 3]: 
-[p.13, right, 4]: 
-[p.13, right, 5]: 
-[p.13, right, 6]: 
-[p.13, right, 7]: 
-[p.13, right, 8]: 
-[p.13, right, 9]: 
-[p.13, right, 10]: 
-[p.13, right, 11]: 
-[p.13, right, 12]: 
-[p.13, right, 13]: 
-[p.13, right, 14]: 
-[p.13, right, 15]: 
-[p.13, right, 16]: 
-[p.13, right, 17]: 
-[p.13, right, 18]: 
-[p.13, right, 19]: 
-[p.13, right, 20]: 
-[p.13, right, 21]: 
-[p.13, right, 22]: 
-[p.13, right, 23]: 
-[p.13, right, 24]: 
-[p.13, right, 25]: 
-[p.13, right, 26]: 
-[p.13, right, 27]: 
-[p.13, right, 28]: 
-[p.13, right, 29]: 
-[p.13, right, 30]: 
-[p.13, right, 31]: 
-[p.13, right, 32]: 
-[p.13, right, 33]: 
-[p.13, right, 34]: 
-[p.13, right, 35]: 
-[p.13, right, 36]: 
-[p.13, right, 37]: 
-[p.13, right, 38]: 
-[p.13, right, 39]: 
-[p.13, right, 40]: 
-[p.13, right, 41]: 
-[p.13, right, 42]: 
-[p.13, right, 43]: 
-[p.13, right, 44]: 
-[p.13, right, 45]: 
-[p.13, right, 46]: 
-[p.13, right, 47]: 
-[p.13, right, 48]: 
-[p.13, right, 49]: 
-[p.13, right, 50]: 
-[p.13, right, 51]: 
-[p.14, left, 1]: 
-[p.14, left, 2]: 
-[p.14, left, 3]: 
-[p.14, left, 4]: 
-[p.14, left, 5]: 
-[p.14, left, 6]: 
-[p.14, left, 7]: 
-[p.14, left, 8]: 
-[p.14, left, 9]: 
-[p.14, left, 10]: 
-[p.14, left, 11]: 
-[p.14, left, 12]: 
-[p.14, left, 13]: 
-[p.14, left, 14]: 
-[p.14, left, 15]: 
-[p.14, left, 16]: 
-[p.14, left, 17]: 
-[p.14, left, 18]: 
-[p.14, left, 19]: 
-[p.14, left, 20]: 
-[p.14, left, 21]: 
-[p.14, left, 22]: 
-[p.14, left, 23]: 
-[p.14, left, 24]: 
-[p.14, left, 25]: 
-[p.14, left, 26]: 
-[p.14, left, 27]: 
-[p.14, left, 28]: 
-[p.14, left, 29]: 
-[p.14, left, 30]: 
-[p.14, left, 31]: 
-[p.14, left, 32]: 
-[p.14, left, 33]: 
-[p.14, left, 34]: 
-[p.14, left, 35]: 
-[p.14, left, 36]: 
-[p.14, left, 37]: 
-[p.14, left, 38]: 
-[p.14, left, 39]: 
-[p.14, left, 40]: 
-[p.14, left, 41]: 
-[p.14, left, 42]: 
-[p.14, left, 43]: 
-[p.14, left, 44]: 
-[p.14, left, 45]: 
-[p.14, left, 46]: 
-[p.14, left, 47]: 
-[p.14, left, 48]: 
-[p.14, left, 49]: 
-[p.14, left, 50]: 
-[p.14, left, 51]: 
+[p.11, left, 46]: s/double-folded/twofold
+
+[p.12, left, 26-28]: what implementations?  
+[p.12, left, 28-29]: abstract classes? so you are talking about classes in your implementation and not ones of the ontology? 
+[p.12, left, 30]: such as for the class temporal..
+[p.12, left, 32]: remove "as an exemplary"
+[p.12, left, 34]: according to whom?
+[p.12, left, 44]: there's a whitespace in `ft3:Temporal Expression`
+[p.12, left, 47]: s/Time./time./
+[p.12, left, 48]: "the Time ontology" -> OWL Time?
+[p.12, left, 51]: also add
+[p.12, right, 40-44]: I would appreciate some .ttl that go along with your claim
+[p.12, right, 50]: s/about/between/
+
+[Fig. 8-9]: Printed out, both figures are barely readable as the labels are super small.. Maybe try spanning them over both columns to make them bigger?
+
+[p.13, left, 12]: s/correference/coreference/ (-> fix throughout the whole paper!)
+[p.13, left, 14]: an annotation attached
+[p.13, left, 17]: what's a "midpoint" in that context? union, intersection, hybrid, merge, ..?
+[p.13, left, 20]: "actual happening" -> rephrase 
+[p.13, left, 25]: remove "it is"
+
+[p.13, right, 39]: what are "periodic temporal"? 
+[p.13, right, 40]: what's the "only expression"?
+
+[p.14, left, 5]: specific use of what?
+[p.14, left, 13]: s/Another way/
+[p.14, left, 27]: what are the two possible results? 
+[p.14, left, 30-34]: please shorten and rephrase the entire paragraph.. 
+[p.14, left, 34-38]: but there >is< a correct way of interpreting an event.. it just depends on the situation and particularities, the context, and requirements as you state.
+[p.14, left, 39]: guarantee sounds a bit too ambitious.. even with the best and most extensive documentation out there, there is no guarantee that people will use your ontology.
+
+[p.14, left, 44]: link overflows the columns
+[p.14, left, 45-46]: "mainly consisting about minor coments and with no critical pitfalls" -> what?
+[p.14, left, 46]: checked on
+
 ```
 
 ## FromTimetoTime Converter
 ---
 
 ``` 
-[p.14, right, 1]: 
-[p.14, right, 2]: 
-[p.14, right, 3]: 
-[p.14, right, 4]: 
-[p.14, right, 5]: 
-[p.14, right, 6]: 
-[p.14, right, 7]: 
-[p.14, right, 8]: 
-[p.14, right, 9]: 
-[p.14, right, 10]: 
-[p.14, right, 11]: 
-[p.14, right, 12]: 
-[p.14, right, 13]: 
-[p.14, right, 14]: 
-[p.14, right, 15]: 
-[p.14, right, 16]: 
-[p.14, right, 17]: 
-[p.14, right, 18]: 
-[p.14, right, 19]: 
-[p.14, right, 20]: 
-[p.14, right, 21]: 
-[p.14, right, 22]: 
-[p.14, right, 23]: 
-[p.14, right, 24]: 
-[p.14, right, 25]: 
-[p.14, right, 26]: 
-[p.14, right, 27]: 
-[p.14, right, 28]: 
-[p.14, right, 29]: 
-[p.14, right, 30]: 
-[p.14, right, 31]: 
-[p.14, right, 32]: 
-[p.14, right, 33]: 
-[p.14, right, 34]: 
-[p.14, right, 35]: 
-[p.14, right, 36]: 
-[p.14, right, 37]: 
-[p.14, right, 38]: 
-[p.14, right, 39]: 
-[p.14, right, 40]: 
-[p.14, right, 41]: 
-[p.14, right, 42]: 
-[p.14, right, 43]: 
-[p.14, right, 44]: 
-[p.14, right, 45]: 
-[p.14, right, 46]: 
-[p.14, right, 47]: 
-[p.14, right, 48]: 
-[p.14, right, 49]: 
-[p.14, right, 50]: 
-[p.14, right, 51]: 
-[p.15, left, 1]: 
-[p.15, left, 2]: 
-[p.15, left, 3]: 
-[p.15, left, 4]: 
-[p.15, left, 5]: 
-[p.15, left, 6]: 
-[p.15, left, 7]: 
-[p.15, left, 8]: 
-[p.15, left, 9]: 
-[p.15, left, 10]: 
-[p.15, left, 11]: 
-[p.15, left, 12]: 
-[p.15, left, 13]: 
-[p.15, left, 14]: 
-[p.15, left, 15]: 
-[p.15, left, 16]: 
-[p.15, left, 17]: 
-[p.15, left, 18]: 
-[p.15, left, 19]: 
-[p.15, left, 20]: 
-[p.15, left, 21]: 
-[p.15, left, 22]: 
-[p.15, left, 23]: 
-[p.15, left, 24]: 
-[p.15, left, 25]: 
-[p.15, left, 26]: 
-[p.15, left, 27]: 
-[p.15, left, 28]: 
-[p.15, left, 29]: 
-[p.15, left, 30]: 
-[p.15, left, 31]: 
-[p.15, left, 32]: 
-[p.15, left, 33]: 
-[p.15, left, 34]: 
-[p.15, left, 35]: 
-[p.15, left, 36]: 
-[p.15, left, 37]: 
-[p.15, left, 38]: 
-[p.15, left, 39]: 
-[p.15, left, 40]: 
-[p.15, left, 41]: 
-[p.15, left, 42]: 
-[p.15, left, 43]: 
-[p.15, left, 44]: 
-[p.15, left, 45]: 
-[p.15, left, 46]: 
-[p.15, left, 47]: 
-[p.15, left, 48]: 
-[p.15, left, 49]: 
-[p.15, left, 50]: 
-[p.15, left, 51]: 
-[p.15, right, 1]: 
-[p.15, right, 2]: 
-[p.15, right, 3]: 
-[p.15, right, 4]: 
-[p.15, right, 5]: 
-[p.15, right, 6]: 
-[p.15, right, 7]: 
-[p.15, right, 8]: 
-[p.15, right, 9]: 
-[p.15, right, 10]: 
-[p.15, right, 11]: 
-[p.15, right, 12]: 
-[p.15, right, 13]: 
-[p.15, right, 14]: 
-[p.15, right, 15]: 
-[p.15, right, 16]: 
-[p.15, right, 17]: 
-[p.15, right, 18]: 
-[p.15, right, 19]: 
-[p.15, right, 20]: 
-[p.15, right, 21]: 
-[p.15, right, 22]: 
-[p.15, right, 23]: 
-[p.15, right, 24]: 
-[p.15, right, 25]: 
-[p.15, right, 26]: 
-[p.15, right, 27]: 
-[p.15, right, 28]: 
-[p.15, right, 29]: 
-[p.15, right, 30]: 
-[p.15, right, 31]: 
-[p.15, right, 32]: 
-[p.15, right, 33]: 
-[p.15, right, 34]: 
-[p.15, right, 35]: 
-[p.15, right, 36]: 
-[p.15, right, 37]: 
-[p.15, right, 38]: 
-[p.15, right, 39]: 
-[p.15, right, 40]: 
-[p.15, right, 41]: 
-[p.15, right, 42]: 
-[p.15, right, 43]: 
-[p.15, right, 44]: 
-[p.15, right, 45]: 
-[p.15, right, 46]: 
-[p.15, right, 47]: 
-[p.15, right, 48]: 
-[p.15, right, 49]: 
-[p.15, right, 50]: 
-[p.15, right, 51]: 
-[p.16, left, 1]: 
-[p.16, left, 2]: 
-[p.16, left, 3]: 
-[p.16, left, 4]: 
-[p.16, left, 5]: 
-[p.16, left, 6]: 
-[p.16, left, 7]: 
-[p.16, left, 8]: 
-[p.16, left, 9]: 
-[p.16, left, 10]: 
-[p.16, left, 11]: 
-[p.16, left, 12]: 
-[p.16, left, 13]: 
-[p.16, left, 14]: 
-[p.16, left, 15]: 
-[p.16, left, 16]: 
-[p.16, left, 17]: 
-[p.16, left, 18]: 
-[p.16, left, 19]: 
-[p.16, left, 20]: 
-[p.16, left, 21]: 
-[p.16, left, 22]: 
-[p.16, left, 23]: 
-[p.16, left, 24]: 
-[p.16, left, 25]: 
-[p.16, left, 26]: 
-[p.16, left, 27]: 
-[p.16, left, 28]: 
-[p.16, left, 29]: 
-[p.16, left, 30]: 
-[p.16, left, 31]: 
-[p.16, left, 32]: 
-[p.16, left, 33]: 
-[p.16, left, 34]: 
-[p.16, left, 35]: 
-[p.16, left, 36]: 
-[p.16, left, 37]: 
-[p.16, left, 38]: 
-[p.16, left, 39]: 
-[p.16, left, 40]: 
-[p.16, left, 41]: 
-[p.16, left, 42]: 
-[p.16, left, 43]: 
-[p.16, left, 44]: 
-[p.16, left, 45]: 
-[p.16, left, 46]: 
-[p.16, left, 47]: 
-[p.16, left, 48]: 
-[p.16, left, 49]: 
-[p.16, left, 50]: 
-[p.16, left, 51]: 
-[p.16, right, 1]: 
-[p.16, right, 2]: 
-[p.16, right, 3]: 
-[p.16, right, 4]: 
-[p.16, right, 5]: 
-[p.16, right, 6]: 
-[p.16, right, 7]: 
-[p.16, right, 8]: 
-[p.16, right, 9]: 
-[p.16, right, 10]: 
-[p.16, right, 11]: 
-[p.16, right, 12]: 
-[p.16, right, 13]: 
-[p.16, right, 14]: 
-[p.16, right, 15]: 
-[p.16, right, 16]: 
-[p.16, right, 17]: 
-[p.16, right, 18]: 
-[p.16, right, 19]: 
-[p.16, right, 20]: 
-[p.16, right, 21]: 
-[p.16, right, 22]: 
-[p.16, right, 23]: 
-[p.16, right, 24]: 
-[p.16, right, 25]: 
-[p.16, right, 26]: 
-[p.16, right, 27]: 
-[p.16, right, 28]: 
-[p.16, right, 29]: 
-[p.16, right, 30]: 
-[p.16, right, 31]: 
-[p.16, right, 32]: 
-[p.16, right, 33]: 
-[p.16, right, 34]: 
-[p.16, right, 35]: 
-[p.16, right, 36]: 
-[p.16, right, 37]: 
-[p.16, right, 38]: 
-[p.16, right, 39]: 
-[p.16, right, 40]: 
-[p.16, right, 41]: 
-[p.16, right, 42]: 
-[p.16, right, 43]: 
-[p.16, right, 44]: 
-[p.16, right, 45]: 
-[p.16, right, 46]: 
-[p.16, right, 47]: 
-[p.16, right, 48]: 
-[p.16, right, 49]: 
-[p.16, right, 50]: 
-[p.16, right, 51]: 
-[p.17, left, 1]: 
-[p.17, left, 2]: 
-[p.17, left, 3]: 
-[p.17, left, 4]: 
-[p.17, left, 5]: 
-[p.17, left, 6]: 
-[p.17, left, 7]: 
-[p.17, left, 8]: 
-[p.17, left, 9]: 
-[p.17, left, 10]: 
-[p.17, left, 11]: 
-[p.17, left, 12]: 
-[p.17, left, 13]: 
-[p.17, left, 14]: 
-[p.17, left, 15]: 
-[p.17, left, 16]: 
-[p.17, left, 17]: 
-[p.17, left, 18]: 
-[p.17, left, 19]: 
-[p.17, left, 20]: 
-[p.17, left, 21]: 
-[p.17, left, 22]: 
-[p.17, left, 23]: 
-[p.17, left, 24]: 
-[p.17, left, 25]: 
-[p.17, left, 26]: 
-[p.17, left, 27]: 
-[p.17, left, 28]: 
-[p.17, left, 29]: 
+[p.14, right, 1]: on [p.11, left, 45] you introduce FT3 as "fromTimeToTime" -> fix section header
+[p.14, right, 3]: "lacks" is not correct here, rephrase!
+[p.14, right, 6]: what further tasks?
+[p.14, right, 7]: options for what?
+[p.14, right, 9-10]: bridge between DL and pure NLP tasks? 
+[p.14, right, 11]: "lack" is also the wrong word here; also, "this lack" == ?
+[p.14, right, 17]: s/in/into/
+[p.14, right, 18-40]: try using a \begin{description} environment.. maybe this makes the list a bit more readable
+[p.14, right, 44]: what's a "pivot class"? are you talking about the java implementation again? 
+[p.14, right, 45]: "interlingua" means what in that context?
+[p.14, right, 47]: and what's the value of the map?
+[p.14, right, 48]: s/each/an/
+[p.14, right, 49]: how, where and why are metatypes "assigned"? what are those "metatypes" in the first place?
+
+[Fig. 12]: s/xsd:String/xsd:string/
+
+[p.15, right, 46]: what's the "Document format"?
+[p.15, right, 48]: what "new format"?
+[p.15, right, 51]: "ontology format" == ? ft3?
+
+[Fig. 14]: In contrast to Fig.12, `ft3:hasID` uses """ (BigString?) here instead of xsd:string.
+
+[p.16, left, 37]: where did you mention that?
+[p.16, left, 44]: "we created one individual in out ontology" -> what?
+
+[Fig. 15-16]: 
+     .) I'm pretty sure 3^^xsd:.. is not correct.. -> "3"^^xsd:..
+     .) <https://fromtimetotime.linkeddata.es/doc/samples/doc002/Time_t1> is a property?
+     .) why are the values of time:weeks, time:months xsd:decimal while ft3:repetitionTimes is xsd:nonNegativeInteger?
+     .) alternative values -> alternative to what? s/values/representations/
+ 
+[p.17, left, 27]: on the; add link to webpage via footnote
 ```
 
 ## Legal KG
 ---
 
 ``` 
-[p.17, left, 30]: 
-[p.17, left, 31]: 
-[p.17, left, 32]: 
-[p.17, left, 33]: 
-[p.17, left, 34]: 
-[p.17, left, 35]: 
-[p.17, left, 36]: 
-[p.17, left, 37]: 
-[p.17, left, 38]: 
-[p.17, left, 39]: 
-[p.17, left, 40]: 
-[p.17, left, 41]: 
-[p.17, left, 42]: 
-[p.17, left, 43]: 
-[p.17, left, 44]: 
-[p.17, left, 45]: 
-[p.17, left, 46]: 
-[p.17, left, 47]: 
-[p.17, left, 48]: 
-[p.17, left, 49]: 
-[p.17, left, 50]: 
-[p.17, left, 51]: 
-[p.17, right, 1]: 
-[p.17, right, 2]: 
-[p.17, right, 3]: 
-[p.17, right, 4]: 
-[p.17, right, 5]: 
-[p.17, right, 6]: 
-[p.17, right, 7]: 
-[p.17, right, 8]: 
-[p.17, right, 9]: 
-[p.17, right, 10]: 
-[p.17, right, 11]: 
-[p.17, right, 12]: 
-[p.17, right, 13]: 
-[p.17, right, 14]: 
-[p.17, right, 15]: 
-[p.17, right, 16]: 
-[p.17, right, 17]: 
-[p.17, right, 18]: 
-[p.17, right, 19]: 
-[p.17, right, 20]: 
-[p.17, right, 21]: 
-[p.17, right, 22]: 
-[p.17, right, 23]: 
-[p.17, right, 24]: 
-[p.17, right, 25]: 
-[p.17, right, 26]: 
-[p.17, right, 27]: 
-[p.17, right, 28]: 
-[p.17, right, 29]: 
-[p.17, right, 30]: 
-[p.17, right, 31]: 
-[p.17, right, 32]: 
-[p.17, right, 33]: 
-[p.17, right, 34]: 
-[p.17, right, 35]: 
-[p.17, right, 36]: 
-[p.17, right, 37]: 
-[p.17, right, 38]: 
-[p.17, right, 39]: 
-[p.17, right, 40]: 
-[p.17, right, 41]: 
-[p.17, right, 42]: 
-[p.17, right, 43]: 
-[p.17, right, 44]: 
-[p.17, right, 45]: 
-[p.17, right, 46]: 
-[p.17, right, 47]: 
-[p.17, right, 48]: 
-[p.17, right, 49]: 
-[p.17, right, 50]: 
-[p.17, right, 51]: 
-[p.18, left, 1]: 
-[p.18, left, 2]: 
-[p.18, left, 3]: 
-[p.18, left, 4]: 
-[p.18, left, 5]: 
-[p.18, left, 6]: 
-[p.18, left, 7]: 
-[p.18, left, 8]: 
-[p.18, left, 9]: 
-[p.18, left, 10]: 
+[p.17, right, 1]: processes
+[p.17, right, 2]: which are?
+[p.17, right, 7]: "updated to the KG" == ? added to?
+[p.17, right, 10]: queried via
+[p.17, right, 11]: On this endpoint
+[p.17, right, 14]: rephrase the last sentence
+[p.17, right, 18]: what security reasons?
+[p.17, right, 21]: the way triples are stored
+[p.17, right, 24]: URL
+[p.17, right, 26]: s/exploit/utilize/
+[p.17, right, 27]: knowledge graph vs. Knowledge Graph (e.g. in [p.17, right, 35-36])
+[p.17, right, 32]: s/alabi/alibi/
+[p.17, right, 37]: for time-related 
+[p.17, right, 38]: compared to what?
+[p.18, left, 1-8]: Something like this doesn't exist already? 
 ```
 
 ## Conclusions
 ---
 
 ``` 
-[p.18, left, 11]: 
-[p.18, left, 12]: 
-[p.18, left, 13]: 
-[p.18, left, 14]: 
-[p.18, left, 15]: 
-[p.18, left, 16]: 
-[p.18, left, 17]: 
-[p.18, left, 18]: 
-[p.18, left, 19]: 
-[p.18, left, 20]: 
-[p.18, left, 21]: 
-[p.18, left, 22]: 
-[p.18, left, 23]: 
-[p.18, left, 24]: 
-[p.18, left, 25]: 
-[p.18, left, 26]: 
-[p.18, left, 27]: 
-[p.18, left, 28]: 
-[p.18, left, 29]: 
-[p.18, left, 30]: 
-[p.18, left, 31]: 
-[p.18, left, 32]: 
-[p.18, left, 33]: 
-[p.18, left, 34]: 
-[p.18, left, 35]: 
-[p.18, left, 36]: 
-[p.18, left, 37]: 
-[p.18, left, 38]: 
-[p.18, left, 39]: 
-[p.18, left, 40]: 
-[p.18, left, 41]: 
-[p.18, left, 42]: 
-[p.18, left, 43]: 
-[p.18, left, 44]: 
-[p.18, left, 45]: 
-[p.18, left, 46]: 
-[p.18, left, 47]: 
-[p.18, left, 48]: 
-[p.18, left, 49]: 
-[p.18, left, 50]: 
-[p.18, left, 51]: 
-[p.18, right, 1]: 
-[p.18, right, 2]: 
-[p.18, right, 3]: 
-[p.18, right, 4]: 
-[p.18, right, 5]: 
-[p.18, right, 6]: 
-[p.18, right, 7]: 
-[p.18, right, 8]: 
-[p.18, right, 9]: 
-[p.18, right, 10]: 
-[p.18, right, 11]: 
-[p.18, right, 12]:
+[p.18, left, 17]: rephrase 
+[p.18, left, 31-32]: rephrase 
+[p.18, left, 37]: not related to temporal
+[p.18, right, 4]: foreign -> not familiar with
+
 ```
 
 ## References
